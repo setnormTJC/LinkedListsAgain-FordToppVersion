@@ -15,13 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="circularly-linkedList -josephusDemo.cpp">
+    <ClCompile Include="dListClientDemo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="FordToppLinkedList.h">
-      <Filter>Source Files</Filter>
+    <ClInclude Include="DoublyLinkedList.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
